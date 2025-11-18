@@ -25,8 +25,10 @@ If no valid second largest exists, return **-1**.
 ## 📑 Algorithm Steps
 
 1. Initialize  
+```
 large = Integer.MIN_VALUE
 second_large = Integer.MIN_VALUE
+```
 
 2. For each number:  
 - If number > large → update both  
@@ -48,37 +50,50 @@ second_large = Integer.MIN_VALUE
 ## 🧪 Sample Input / Output (When Running Program)
 
 **Input**
+```
 6
 3 5 2 5 6 6
-
+```
 **Output**
+```
 Second largest is 5
+```
 
 **Input**
+```
 3
 7 7 7
+```
 
 **Output**
+```
 Second largest is -1
-
+```
 
 ---
 
 ## ▶️ How to Run This Code in VS Code
 
 ### 1️⃣ Open Terminal  
+```
 Ctrl + `
+```
 (or Terminal → New Terminal)
 
 ### 2️⃣ Compile  
+```
 javac SecondLargest.java
+```
 
 ### 3️⃣ Run  
+```
 java SecondLargest
+```
 
 ### 4️⃣ Enter Input  
 Example:
+```
 6
 3 5 2 5 6 6
-
+```
 ---
