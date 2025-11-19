@@ -136,7 +136,7 @@ x-api-key: reqres-free-v1
 📤 Deployment
 Vercel Deployment
 ```
-[vercel deploy link](https://userdirectorytable.vercel.app/)
+https://userdirectorytable.vercel.app/
 ```
 
 ---
