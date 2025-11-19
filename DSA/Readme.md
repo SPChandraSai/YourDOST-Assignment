@@ -20,7 +20,6 @@ As we loop through the array:
 
 If no valid second largest exists, return **-1**.
 
----
 
 ## 📑 Algorithm Steps
 
@@ -30,13 +29,13 @@ large = Integer.MIN_VALUE
 second_large = Integer.MIN_VALUE
 ```
 
+
 2. For each number:  
 - If number > large → update both  
 - Else if number > second_large AND number != large → update second_large  
 3. If second largest was never updated → return **-1**  
 4. Otherwise return `second_large`
 
----
 
 ## ⏱️ Time & Space Complexity
 
@@ -45,7 +44,6 @@ second_large = Integer.MIN_VALUE
 | Time     | **O(n)**   |
 | Space    | **O(1)**   |
 
----
 
 ## 🧪 Sample Input / Output (When Running Program)
 
@@ -70,7 +68,6 @@ Second largest is 5
 Second largest is -1
 ```
 
----
 
 ## ▶️ How to Run This Code in VS Code
 
@@ -96,4 +93,3 @@ Example:
 6
 3 5 2 5 6 6
 ```
----
