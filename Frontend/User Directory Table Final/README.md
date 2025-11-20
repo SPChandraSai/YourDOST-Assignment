@@ -75,8 +75,8 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/user-directory-table.git
-cd user-directory-table
+git clone https://github.com/SPChandraSai/YourDOST-Assignment.git
+cd YourDOST-Assignment/Frontend/User Directory Table Final
 ```
 
 Install dependencies:

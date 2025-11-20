@@ -65,8 +65,9 @@ todo-crud-api/
 
 ### 1️⃣ Clone the repository  
 ```
-git clone <your-repo-url>
-cd todo-crud-api
+git clone https://github.com/SPChandraSai/YourDOST-Assignment.git
+cd YourDOST-Assignment
+cd "Backend/Todo CRUD API"
 ```
 
 ### 2️⃣ Install dependencies  
@@ -149,7 +150,7 @@ You can test using:
 
 🔗 Live API Link
 ```
-https://your-deployed-api-url.com
+https://todo-crud-api-fbiy.onrender.com
 ```
 
 ---
